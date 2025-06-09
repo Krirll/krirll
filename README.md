@@ -1,5 +1,5 @@
 ### Привет 👋
-### Я начинающий Android разработчик
+### Я Android разработчик
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-orange?style=for-the-badge&logo=Kotlin)  ![Java](https://img.shields.io/badge/-Java-orange?style=for-the-badge&logo=java)
 
